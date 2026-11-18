@@ -1,0 +1,28 @@
+Final results:
+
+Dimension: 1000
+  All runs: ['66.25%', '66.25%', '66.25%', '66.25%', '66.25%', '66.25%', '66.25%', '66.25%']
+  Average:  66.25%
+  Std Dev:  0.00%
+  Min:      66.25%
+  Max:      66.25%
+Dimension: 4000
+  All runs: ['71.25%', '70.00%', '70.00%', '70.00%', '70.00%', '70.00%', '70.00%', '71.25%']
+  Average:  70.31%
+  Std Dev:  0.54%
+  Min:      70.00%
+  Max:      71.25%
+Dimension: 6000
+  All runs: ['68.75%', '67.50%', '68.75%', '68.75%', '67.50%', '67.50%', '67.50%', '68.75%']
+  Average:  68.12%
+  Std Dev:  0.62%
+  Min:      67.50%
+  Max:      68.75%
+Dimension: 8000
+  All runs: ['75.00%', '76.25%', '75.00%', '75.00%', '75.00%', '75.00%', '75.00%', '75.00%']
+  Average:  75.16%
+  Std Dev:  0.41%
+  Min:      75.00%
+  Max:      76.25%
+Results analysis:
+Best performing dimension: 8000 with average accuracy of 75.16%
